@@ -1,4 +1,4 @@
-# Smart Canteen
+# Modern Canteen Management
 
 ## Description
 Online ordering offers a range of benefits, including an interactive UI, wider product
